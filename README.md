@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About-me-
+
 <!-- Header -->
 
 <h1 align="center">Hi 👋, I'm Abhijit Singh</h1>
