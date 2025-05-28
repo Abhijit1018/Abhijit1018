@@ -87,4 +87,4 @@
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to check out my repositories and drop a message!*
+⭐ *Thanks for stopping by! Feel free to check out my repositories and drop a message!*!
