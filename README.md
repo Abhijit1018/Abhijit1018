@@ -100,7 +100,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhijit-singh10)  
 - 💼 [GitHub](https://github.com/Abhijit1018)  
-- 📧 [abhijeetrathore104@gmail.com](mailto:abhijeetrathore104@gmail.com)  
+- 📧 [Email](mailto:abhijeetrathore104@gmail.com)  
 
 ---
 
