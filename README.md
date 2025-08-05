@@ -22,9 +22,9 @@
 </p>
 
 <!-- Visitor Counter -->
-<p align="center">
+<!--p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhijit1018&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
+</p-->
 
 ---
 
