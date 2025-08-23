@@ -96,7 +96,6 @@
 <div align="center">
 
 ### 🤖 Personalized Chat-Bot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijit1018&repo=personalized-chatbot&theme=tokyonight)](https://github.com/Abhijit1018/personalized-chatbot)
 
 **Technologies:** Python, NLP, Flask, HTML/CSS  
 🔹 Built intelligent chatbot using Natural Language Processing  
@@ -104,7 +103,6 @@
 🔹 Implements intent recognition and response generation  
 
 ### 🏥 Hospital Database Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhijit1018&repo=hospital-db-management&theme=tokyonight)](https://github.com/Abhijit1018/hospital-db-management)
 
 **Technologies:** MySQL, Python, Tkinter/Flask  
 🔹 Complete CRUD operations for hospital records  
