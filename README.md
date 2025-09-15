@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijit+Singh;Python+Developer;Web+Developer;SAP+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Computer Science Student | SAP Certified Developer | Problem Solver</h3>
+<h3 align="center">🚀 Computer Science Student | SAP Certified Developer | Problem Solver| SAP BTP</h3>
 
 <!-- Social Links & Contact -->
 <p align="center">
