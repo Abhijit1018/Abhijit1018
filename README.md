@@ -1,253 +1,121 @@
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijit+Singh;Python+Developer;Web+Developer;SAP+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ABHIJIT+SINGH+RATHORE;SAP+CLOUD+ARCHITECT;AI+AUTOMATION+ENGINEER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Computer Science Student | SAP Certified Developer | Problem Solver| SAP BTP</h3>
-
-<!-- Social Links & Contact -->
 <p align="center">
-  <a href="https://github.com/Abhijit1018" target="_blank">
-    <img src="https://img.shields.io/github/followers/Abhijit1018?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=black" />
-  </a>
-  <a href="https://linkedin.com/in/abhijit-singh10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abhijeetrathore104@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:9376481607">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/SAP-Certified_ABAP_Cloud-0070C1?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-S%2F4HANA_Cloud_Public-0070C1?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<!-- Visitor Counter -->
-<!--p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijit1018&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p-->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Abhijit1018?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg" />
+  <img src="https://img.shields.io/badge/Contributions-Open-orange.svg" />
+</p>
 
 ---
 
-## 🎯 About Me
+## ⚡ Executive Summary
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzJqbmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif"/>
+I am an **Enterprise Solution Architect** in training, specializing in the **SAP Business Technology Platform (BTP)**. I focus on building high-performance cloud extensions that bridge traditional ERP systems with cutting-edge AI and automation layers.
 
-🎓 **B.Tech in Computer Science with SAP** – *Parul University, Vadodara* (Expected: **May 2027**)  
-📍 **Location:** Vadodara, Gujarat, India  
-💼 **SAP Certified Associate** - Back-End Developer (ABAP Cloud)  
-🔥 **Passionate** about building innovative software solutions and solving real-world problems  
-
-### 🌟 Quick Highlights:
-- 🏆 **SAP Certified** ABAP Cloud Developer
-- 💻 **Full-Stack** Web Developer (Flask, Django)
-- 🤖 **NLP & AI** Enthusiast
-- 📊 **Data Analysis** with Power BI
-- 🎮 **Game Development** with Unity
-- 🚀 **Problem Solver** with strong analytical skills
+* 🛠️ **Core Focus:** Developing cloud-native extensions using the **ABAP RESTful Programming Model (RAP)**.
+* 🤖 **AI Strategy:** Integrating LLMs and automation agents into **S/4HANA** workflows to drive business efficiency.
+* 📊 **Data Engineering:** Designing robust data models with **Core Data Services (CDS)** and **HANA Cloud**.
+* 🎓 **Academic:** Pursuing B.Tech in Computer Science (SAP Specialization) at **Parul University**.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ The Tech Ecosystem
 
-### 💻 Programming Languages
+### 🟦 SAP Enterprise Suite
+| Technology | Application |
+| :--- | :--- |
+| **ABAP Cloud / RAP** | Cloud-native backends & data modeling |
+| **SAP Fiori / UI5** | Enterprise UX & OData integration |
+| **SAP BTP** |  Extension suite & CAP development |
+| **S/4HANA Cloud** |  Functional implementation & procurement |
+
+### 🌐 Full Stack & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
-  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Databases & Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,ts,nodejs,mysql,mongodb,aws,github,linux,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 💎 Innovation Labs (Featured Projects)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijit1018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1018&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<details open>
+<summary><b>🤖 Recall-AI: Intelligent Debt Recovery Agent</b></summary>
+<br />
+<blockquote>
+  <b>Architecture:</b> SAP BTP CAP + HANA Cloud + n8n + Twilio
+</blockquote>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit1018&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijit1018&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 Personalized Chat-Bot
-
-**Technologies:** Python, NLP, Flask, HTML/CSS  
-🔹 Built intelligent chatbot using Natural Language Processing  
-🔹 Web-integrated interface for seamless user interaction  
-🔹 Implements intent recognition and response generation  
-
-### 🏥 Hospital Database Management System
-
-**Technologies:** MySQL, Python, Tkinter/Flask  
-🔹 Complete CRUD operations for hospital records  
-🔹 Secure user authentication and data validation  
-🔹 User-friendly interface for staff management  
-
-### 🎮 Bounce Ball Game - Unity
-**Technologies:** Unity Engine, C#  
-🔹 Physics-based gameplay with collision detection  
-🔹 Dynamic bounce mechanics and scoring system  
-🔹 Mobile-friendly responsive design  
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Admission Assistant**  
-🏢 **Parul University, Vadodara**  
-📅 **May 2024 - September 2024**  
-
-- 🎯 Assisted in managing university admissions process
-- 💬 Provided comprehensive support to prospective students
-- 📈 Developed strong organizational and communication skills
-- 🤝 Enhanced teamwork and professional interaction abilities
-
----
-
-## 🏆 Certifications & Achievements
+* **Problem:** Manual invoice follow-ups are inefficient for delinquency management.
+* **Solution:** An automated agent that classifies delinquency stages and generates AI-driven personalized scripts.
+* **Impact:** Orchestrated real-time voice and email outreach using **n8n** and **Twilio**.
+</details>
 
 <details>
-<summary><b>🎖️ Click to view all certifications</b></summary>
+<summary><b>📦 Enterprise Sales Suite: S/4HANA Extension</b></summary>
+<br />
+<blockquote>
+  <b>Architecture:</b> ABAP Cloud + CDS + Fiori Elements
+</blockquote>
 
-### 🥇 SAP Certifications
-- **SAP Certified Associate - Back-End Developer – ABAP Cloud**
+* **Backend:** Engineered complex logic in Eclipse (ADT) to post sales order data directly to S/4HANA.
+* **Frontend:** Developed a seamless UI using **SAP Business Application Studio (BAS)** for real-time order tracking.
+</details>
 
-### 🤖 AI & Machine Learning
-- **Generative AI** | Google & UPSkill
+<details>
+<summary><b>🐍 Agile Analytics: Django Ecosystem</b></summary>
+<br />
+<blockquote>
+  <b>Architecture:</b> Django + Streamlit + REST APIs
+</blockquote>
 
-### 💻 Software Development
-- **Software Engineering and Agile Software Development** | Infosys
-- **Python Foundation Certification** | Infosys
-
-### 📊 Data & Databases
-- **Database Management System** | Infosys
-- **Introduction to Data Science** | Infosys
-- **Introduction to NoSQL Databases** | Infosys
-
+* **Execution:** Prototyped a data visualization ecosystem that slashed stakeholder turnaround time.
+* **Leadership:** Steered the project through a rigorous 4-milestone delivery for executive leadership.
 </details>
 
 ---
 
-## 🎯 Core Competencies
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Technical Skills
-- Problem Solving & Algorithm Design
-- Full-Stack Web Development
-- Database Design & Management
-- SAP ABAP Development
-- Data Analysis & Visualization
-- Game Development
-
-</td>
-<td width="50%">
-
-### 🧠 Soft Skills
-- Leadership & Decision Making
-- Team Collaboration
-- Project Management
-- Communication & Presentation
-- Time Management
-- Continuous Learning
-
-</td>
-</tr>
-</table>
+## 🏆 Verified Expertise
+* 🎓 **SAP Certified Associate** - ABAP Cloud Back-End Developer.
+* 📦 **SAP Certified Associate** - S/4HANA Cloud Public Edition Implementation.
+* ☁️ **Oracle Certified Professional** - OCI 2025 Data Science.
+* 🌩️ **AWS Certified** - Cloud Practitioner.
 
 ---
 
-## 🌍 Languages
-
-<p>
-  🇬🇧 <strong>English</strong> - Fluent<br>
-  🇮🇳 <strong>Hindi</strong> - Native<br>
-  🇮🇳 <strong>Gujarati</strong> - Conversational
+## 📊 Analytics & Performance
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijit1018&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1018&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on **Advanced NLP Projects** and **Web Applications**
-- 🌱 Learning **Cloud Technologies** and **Advanced SAP Development**
-- 👯 Looking to collaborate on **Open Source Projects** and **AI/ML Applications**
-- 💬 Ask me about **Python, Web Development, SAP ABAP, Database Design**
-- ⚡ Fun fact: **I love creating games and exploring new technologies!**
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
+## 🤝 Connect & Collaborate
 <div align="center">
-
-### 💌 Reach Out To Me
-
-<p>
   <a href="https://linkedin.com/in/abhijit-singh10" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abhijeetrathore104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Inquiry-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="tel:9376481607">
-    <img src="https://img.shields.io/badge/Phone-Call%20Me-green?style=for-the-badge&logo=phone&logoColor=white" />
+  <a href="https://abhijitsingh01.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
-</p>
-
-### 🌟 Open for:
-- **Internship Opportunities**
-- **Collaborative Projects**
-- **Open Source Contributions**
-- **Technical Discussions**
-- **Mentorship & Learning**
-
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <br>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-  <br><br>
-  ⭐️ <b>Star my repositories if you find them interesting!</b>
-  <br>
-  🤝 <b>Thanks for visiting my profile! Let's build something amazing together!</b>
-</div>
-
----
+<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abhijit1018/Abhijit1018/output/snake.svg" alt="Snake animation" />
+  <br />
+  <p><i>"Architecting the intersection of ERP and Artificial Intelligence."</i></p>
 </div>
