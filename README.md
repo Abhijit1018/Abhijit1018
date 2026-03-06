@@ -1,111 +1,121 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=ABHIJIT+SINGH+RATHORE;SAP+CLOUD+ARCHITECT;AI+AUTOMATION+ENGINEER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=ABHIJIT+SINGH+RATHORE;FULL+STACK+%2B+AI+DEVELOPER;PYTHON+%7C+DJANGO+%7C+REACT+%7C+NEXT.JS"
+    alt="Typing SVG"
+  />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP-Certified_ABAP_Cloud-0070C1?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-S%2F4HANA_Cloud_Public-0070C1?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-Developer-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Web%20%26%20APIs-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=111" />
+  <img src="https://img.shields.io/badge/Next.js-Full%20Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Abhijit1018?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg" />
   <img src="https://img.shields.io/badge/Contributions-Open-orange.svg" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green.svg" />
 </p>
 
 ---
 
-## ⚡ Executive Summary
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzJqbmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+## ⚡ About Me
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzJqbmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-I am an **Enterprise Solution Architect** in training, specializing in the **SAP Business Technology Platform (BTP)**. I focus on building high-performance cloud extensions that bridge traditional ERP systems with cutting-edge AI and automation layers.
+I’m a **student** and a **Full-Stack + AI Developer**. I enjoy building modern web apps, shipping clean UIs, and experimenting with AI assistants/agents that automate real tasks.
 
-* 🛠️ **Core Focus:** Developing cloud-native extensions using the **ABAP RESTful Programming Model (RAP)**.
-* 🤖 **AI Strategy:** Integrating LLMs and automation agents into **S/4HANA** workflows to drive business efficiency.
-* 📊 **Data Engineering:** Designing robust data models with **Core Data Services (CDS)** and **HANA Cloud**.
-* 🎓 **Academic:** Pursuing B.Tech in Computer Science (SAP Specialization) at **Parul University**.
+- 🤖 **Current focus:** AI agents + automation (Python-first)
+- 🕸️ **Web:** Django APIs + React/Next.js frontends
+- 📚 **DSA:** consistent daily practice (GFG 160)
 
 ---
 
-## 🛠️ The Tech Ecosystem
+## 🧠 Highlight Project
+### 🤖 Arora-Ai — The master agent for your machine
+An AI/automation-focused agent project aimed at helping automate workflows and actions on a computer.
+- Stack: **Python**
+- Repo: https://github.com/Abhijit1018/Arora-Ai
 
-### 🟦 SAP Enterprise Suite
-| Technology | Application |
-| :--- | :--- |
-| **ABAP Cloud / RAP** | Cloud-native backends & data modeling |
-| **SAP Fiori / UI5** | Enterprise UX & OData integration |
-| **SAP BTP** |  Extension suite & CAP development |
-| **S/4HANA Cloud** |  Functional implementation & procurement |
+---
 
-### 🌐 Full Stack & AI
+## 💎 Featured Projects
+
+### 🌐 Niche-Solution — Modern Company Portfolio (3D + Motion UI)
+A stunning modern portfolio/company website with **dark mode**, **3D effects**, and smooth animations.
+- Stack: **React, TypeScript, Three.js, Framer Motion**
+- Repo: https://github.com/Abhijit1018/Niche-Solution
+
+### 🏥 Hospital Management System — Django + MongoDB
+A web-based system for managing **patients, doctors, appointments, medical records, and billing**.
+- Stack: **Python, Django, MongoDB + HTML/CSS/JS**
+- Repo: https://github.com/Abhijit1018/HOSPITAL-MANAGEMENT-SYSTEM
+
+### 💬 AI-CHATBOT — Python Chatbot
+A Python chatbot project (foundation for assistant-style interactions).
+- Stack: **Python**
+- Repo: https://github.com/Abhijit1018/AI-CHATBOT
+
+### 🧠 GFG160 — Daily DSA Solutions
+Daily problem solving repo for the **GFG 160 Challenge**.
+- Stack: **Python (mostly)**
+- Repo: https://github.com/Abhijit1018/GFG160
+
+---
+
+## 🧰 Tech Stack
+**Frontend:** React • Next.js • TypeScript • Three.js • Framer Motion • HTML • CSS • JavaScript  
+**Backend:** Python • Django  
+**Database:** MongoDB  
+**Tools:** Git • GitHub • Linux • Docker • AWS (basics)
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,ts,nodejs,mysql,mongodb,aws,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,ts,js,html,css,mongodb,docker,linux,aws,github" />
 </p>
 
 ---
 
-## 💎 Innovation Labs (Featured Projects)
-
-<details open>
-<summary><b>🤖 Recall-AI: Intelligent Debt Recovery Agent</b></summary>
-<br />
-<blockquote>
-  <b>Architecture:</b> SAP BTP CAP + HANA Cloud + n8n + Twilio
-</blockquote>
-
-* **Problem:** Manual invoice follow-ups are inefficient for delinquency management.
-* **Solution:** An automated agent that classifies delinquency stages and generates AI-driven personalized scripts.
-* **Impact:** Orchestrated real-time voice and email outreach using **n8n** and **Twilio**.
-</details>
-
-<details>
-<summary><b>📦 Enterprise Sales Suite: S/4HANA Extension</b></summary>
-<br />
-<blockquote>
-  <b>Architecture:</b> ABAP Cloud + CDS + Fiori Elements
-</blockquote>
-
-* **Backend:** Engineered complex logic in Eclipse (ADT) to post sales order data directly to S/4HANA.
-* **Frontend:** Developed a seamless UI using **SAP Business Application Studio (BAS)** for real-time order tracking.
-</details>
-
-<details>
-<summary><b>🐍 Agile Analytics: Django Ecosystem</b></summary>
-<br />
-<blockquote>
-  <b>Architecture:</b> Django + Streamlit + REST APIs
-</blockquote>
-
-* **Execution:** Prototyped a data visualization ecosystem that slashed stakeholder turnaround time.
-* **Leadership:** Steered the project through a rigorous 4-milestone delivery for executive leadership.
-</details>
+## 🎨 More Projects / Experiments
+- My-Portfolio-: https://github.com/Abhijit1018/My-Portfolio-
+- New-portfolio-: https://github.com/Abhijit1018/New-portfolio-
+- ARTISAN-LEATHER: https://github.com/Abhijit1018/ARTISAN-LEATHER
+- Wishes (fun wishing page): https://github.com/Abhijit1018/Wishes
 
 ---
 
-## 🏆 Verified Expertise
-* 🎓 **SAP Certified Associate** - ABAP Cloud Back-End Developer.
-* 📦 **SAP Certified Associate** - S/4HANA Cloud Public Edition Implementation.
-* ☁️ **Oracle Certified Professional** - OCI 2025 Data Science.
-* 🌩️ **AWS Certified** - Cloud Practitioner.
+## 📊 GitHub Stats (Alternative)
 
----
-
-## 📊 Analytics & Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijit1018&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit1018&layout=compact&theme=tokyonight&border_radius=10" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhijit1018&theme=tokyonight"
+    alt="Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijit1018&theme=tokyonight"
+    alt="Repos per language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijit1018&theme=tokyonight"
+    alt="Profile details"
+  />
 </p>
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/abhijit-singh10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:abhijeetrathore104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Inquiry-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://abhijitsingh01.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
@@ -117,5 +127,5 @@ I am an **Enterprise Solution Architect** in training, specializing in the **SAP
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abhijit1018/Abhijit1018/output/snake.svg" alt="Snake animation" />
   <br />
-  <p><i>"Architecting the intersection of ERP and Artificial Intelligence."</i></p>
+  <p><i>"Building full-stack products with an AI-first mindset."</i></p>
 </div>
